@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CRUP Docs
+description: A starter template using the Just the Docs theme
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# Where the site will live
+url: "https://anikasikka.github.io"
+baseurl: "/crup"   # VERY IMPORTANT for project repos
 
+# Add a GitHub link in the header
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "View on GitHub": "https://github.com/anikasikka/crup"
