@@ -1,3 +1,8 @@
+---
+title: "Syllabus"
+nav_order: 2
+---
+
 # CRUP Syllabus
 
 **Course Format:** 3 hours, once a week, in person (or hybrid, depending on availability)  
