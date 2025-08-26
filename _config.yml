@@ -1,11 +1,9 @@
-title: CRUP Docs
+title: CRUP
 description: A starter template using the Just the Docs theme
 theme: just-the-docs
 
-# Where the site will live
 url: "https://anikasikka.github.io"
-baseurl: "/crup"   # VERY IMPORTANT for project repos
+baseurl: "/crup"   
 
-# Add a GitHub link in the header
 aux_links:
   "View on GitHub": "https://github.com/anikasikka/crup"
