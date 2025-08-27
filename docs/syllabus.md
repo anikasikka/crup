@@ -6,30 +6,63 @@ layout: home
 
 ## Policies
 
-### Lectures
-Lectures are on Mondays, 8-10 pm @ AAPB 115, except common midterms (CS61ABC, 70, etc.) and holidays.
+### Course Format
+- **Length**: 3 hours, once a week, in person (or hybrid, depending on availability).  
+- **Time & Date**: Saturday or Sunday from 10am–1pm.  
 
-### Attendance
-Attendance is mandatory. If you absolutely cannot make it to lecture, please DM Sara or Saathvik.
+### Contact Information
+- **EdVPs**: Patrick Mendoza (patmendoza6745@berkeley.edu), Anika Sikka (anikasikka@berkeley.edu)  
+- **Mentored PMs**: Sarika Pasumarthy (sarikapasumarthy@berkeley.edu), Eduardo Lopez (eduardo_lopez@berkeley.edu)  
 
-Note that there is lecture quizzes due each week on Gradescope (join code: KDY57V).
+### Prerequisites
+- Taken or concurrently enrolled in **CS 61A / Data 8** OR have previous coding experience  
+- No prior industry experience  
+- Little to no prior web dev experience  
+- Completed **1 or fewer upper-division CS/Data Science technical courses** at UC Berkeley  
+
+### Desired Course Outcomes
+By the end of the 12 weeks, we hope you:  
+- Are comfortable programming in **Python, JavaScript, HTML, CSS, and SQL**  
+- Know common data structures (Arrays, LinkedLists, Trees, HashTables)  
+- Are familiar with frameworks such as **React, Node.js, NPM, PyTorch, Pandas, NumPy, scikit-learn**  
+- Have a basic understanding of **Databases**  
+- Understand fundamental ML/AI concepts (optimization, neural networks)  
+- Feel comfortable working in a **team environment**, similar to industry  
+
+### Course Content
+The course will roughly follow this outline (subject to change based on member needs, popularity, and resources):  
+1. Programming in Python  
+2. Data Structures  
+3. SQL and Databases  
+4. Introduction to SWE  
+5. Math for ML  
+6. Classical ML  
+7. Deep Learning  
+8. Introduction to MLE  
+
+### Course Outline
+- **Weeks 1–4**: Welcome! & Intro to Programming in Python, Data Structures, Web Development, and Introduction to SWE  
+- **Weeks 5–8**: Databases, and Math for ML  
+- **Weeks 9–12**: Classical ML, Deep Learning, and Introduction to MLE  
 
 ### Homeworks
-Throughout the semester, we'll be releasing homeworks that accompany lectures. To subvert limitless extensions, we'll be implementing a hard extension policy requiring you to turn in homework **at most 4 days after the deadline**. This policy is for your benefit and will help you keep pace with the course!
+Throughout the course, we’ll be releasing homeworks that accompany lectures.  
+- **Deadline policy**: Homework must be submitted **before the next lecture** (no rolling extensions).  
+- **Homework parties**: Weekly, right after lecture — a space to ask questions and work together with your fellow members.  
 
-We'll also be hosting weekly **homework parties** so you can ask questions and work with your fellow new members on the homework. 
+⚠️ Failure to adhere to the above policies may impact your eligibility to become a **client developer** the following semester and to attend **Codebase social events**.  
 
-Homework parties are Fridays, 12pm-2pm (11am-12pm for those who can't make it) @ BWW Floor 3.
+### Midterm
+Before switching to the ML portion of the curriculum, you’ll take a **60-minute midterm**.  
+- Mirrors lecture examples & homework problems  
+- Not designed to trick you — just to help us see how to best support the class  
+- Scores will not be scrutinized heavily  
+- 🎉 Expect some festivities after the exam!  
 
-### Paper presentations
-Starting from week 4, a group of two will present a given paper each week at the start of the lecture.
-Please make sure to add your name to this
-[signup sheet](https://docs.google.com/spreadsheets/d/1u_LFTWkpmpNt0mm_kbxT32tvuML6_H1xTlVFzsqnYhg/edit?usp=sharing).
-For reference, you may use these [slide template](https://docs.google.com/presentation/d/1CgUaMp7eyq2N8LlilqNMbZAsr1BtTzEkW7HA5eIfWKc/edit?usp=sharing).
+### Final Project
+You’ll complete a **final course project** in teams of **3–4 people** (with 1–2 client devs and 1–2 mentored devs).  
+- **Showcase**: At Codebase’s banquet, where you’ll present everything you’ve learned ⭐⭐⭐  
+- **Requirements**: Must incorporate full stack, databases, SWE practices, and machine learning  
+- **Logistics**: Details announced in **Week 10**  
 
-### Final
-During the last week of instruction, you will have a final exam, covering all topics that have been taught through the semester. It will be carried out individually and will take about an hour, where you will be asked to answer questions orally.
-
-### Final project
-Towards the latter half of NMEP, you'll also be completing a project of your choosing with the help of mentors (older ML@B members). Project teams will be **3-4 people**, and there will be a final project showcase at the end of the semester so you can talk about the ✨cool✨ things you built/discovered!
-
+👉 Think of an issue that matters to you — in your life, your community, or the world — and build a **tech-powered solution**!  
