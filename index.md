@@ -71,7 +71,7 @@ Your instructors this semester are [Anika Sikka](mailto:anikasikka@berkeley.edu)
     <tr>
       <td>7</td>
       <td>Week 7</td>
-      <td><strong>Calculus for ML</strong></td>
+      <td>Calculus for ML</td>
       <td></td>
       <td></td>
     </tr>
@@ -106,7 +106,7 @@ Your instructors this semester are [Anika Sikka](mailto:anikasikka@berkeley.edu)
     <tr>
       <td>12</td>
       <td>Week 12</td>
-      <td><strong>Introduction to MLE</strong></td>
+      <td>Introduction to MLE</td>
       <td></td>
       <td></td>
     </tr>

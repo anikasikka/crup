@@ -1,10 +1,10 @@
 ---
-title: Policies
+title: Syllabus
 nav_order: 2
 layout: home
 ---
 
-## Policies
+## Syllabus
 
 ### Course Format
 - **Length**: 3 hours, once a week, in person (or hybrid, depending on availability).  
