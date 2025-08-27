@@ -1,15 +1,15 @@
 ---
-title: NMEP Spring 2025
+title: CRUP Fall 2025
 nav_order: 1
 layout: home
 ---
 
-## NMEP Spring 2025
+## Crup Fall 2025
 
 Welcome everyone!
-In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you—from classical ML to diffusion models. Come hungry to learn and get to know the rest of your class!
+In the Codebase Ramp Up Program (CRUP), we'll be diving into Software Engineering, Machine Learning, and AI through hands-on projects using Python, JavaScript, HTML/CSS, SQL, and frameworks like React, Node.js, PyTorch, and scikit-learn! 
 
-Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@berkeley.edu) and [Saathvik Selvan](mailto:sselvan@berkeley.edu)!
+Your instructors this semester are [Anika Sikka](mailto:anikasikka@berkeley.edu) and [Patrick Mendoza](mailto:patmendoza6745@berkeley.edu)!
 
 
 ### Schedule
@@ -27,24 +27,11 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr> <th style="max-width: 30px;">Week</th> <th>Date</th> <th>Lecture</th> <th>Assignments</th> <th>Lecturer(s)</th> </tr>
         <tr>
             <td style="max-width: 30px;">1</td>
-            <td>Feb 10</td>
+            <td>Week 1</td>
             <td>Intro + Background Review
-                (<a href="https://docs.google.com/presentation/d/1zeNGBs78gVnvq84CvT0frsxEzig48B6P9VeMewC6ijE/edit?usp=sharing">slides</a>)
             </td>
-            
             <td>
-            <span class="label"><strong>Lecture Exercise</strong></span>
-            <a href="https://drive.google.com/file/d/1p_QsJX3d3T3mSeePed0_CDieP39g83Pc/view?usp=drive_link">Rockfall</a>
-            -
-            <a href="https://drive.google.com/file/d/1r1_Kj7nzAd10DLk9D87AZet81uEnhBIa/view?usp=drive_link">Sol.</a>
-            <br>
-            <span class="label label-yellow"><strong>Homework 0</strong> (due 2/17)</span>
-            <a href="/nmep/assets/hw0/hw0-pandas.ipynb">Pandas</a>
-            <a href="/nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a>
-            </td>
-
-            <td>
-            Saathvik, Sara
+            Anika
             </td>
         </tr>
         <tr>
