@@ -1,9 +1,9 @@
-title: CRUP
-description: A starter template using the Just the Docs theme
+title: ML@B NMEP
+description: Machine Learning @ Berkeley, New Member Education Program
 theme: just-the-docs
 
-url: "https://anikasikka.github.io"
-baseurl: "/crup"   
+url: https://mlberkeley.github.io
 
-aux_links:
-  "View on GitHub": "https://github.com/anikasikka/crup"
+nav_enabled: true
+
+color_scheme: wider
